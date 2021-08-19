@@ -1,3 +1,4 @@
+local playersProcessingCannabis = {}
 local itemcraft = 'black_money'
 
 RegisterServerEvent('qb-weedpicking:pickedUpCannabis') --hero
